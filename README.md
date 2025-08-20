@@ -4,9 +4,6 @@ Design and develop a full-stack web application for managing books using React.j
 
 
 
-
-
-
 # 📚 Book Management Application
 
 A **full-stack web application** for managing books, built with **React.js** (frontend) and **Spring Boot** (backend).  
